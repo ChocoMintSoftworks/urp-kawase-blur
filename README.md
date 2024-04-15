@@ -2,6 +2,9 @@
 
 Please note, the original creator of this repository (sebastianhein) did not license it. This means the code is technically copyrighted, so should not be used in a commercial environment.
 
+### About this fork
+This work was done to get the Kawase Blur working in newer versions of unity, tested using Unity 2023.2
+
 ### Renderer Extension for Universal Render Pipeline
 
 This is a experimental RenderFeature implementation that:
@@ -43,3 +46,4 @@ Masked shader variants can be used to blur UI elements with rounded corners prop
 
 Blur originally developed with Unity 2019.3.
 Demo scene & project restructure done with Unity 2020.1.
+Update for modern versions done via Unity 2023.2
